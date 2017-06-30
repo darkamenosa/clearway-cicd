@@ -14,8 +14,8 @@ Our project is using microservices architecture. Currently, we don't have a good
 
 # Application repository
 
-- [Service discovery]()
-- [Configuration store]()
+- [Service discovery](https://github.com/darkamenosa/cw-service-discovery)
+- [Configuration](https://github.com/darkamenosa/cw-configuration)
 - [Service 1]()
 - [Service 2]()
 - [API gateway]()
